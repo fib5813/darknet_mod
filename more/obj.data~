@@ -1,0 +1,6 @@
+classes= 12 
+train  = /home/jj/restocking/darknet/more/train.txt
+valid  = /home/jj/restocking/darknet/more/train.txt
+names = /home/jj/restocking/darknet/more/obj.names
+backup = backup_more
+
